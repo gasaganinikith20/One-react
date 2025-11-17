@@ -11,7 +11,7 @@ const btn = ()=>{
 return(
     <>
     <h1>{dataa}</h1>
-    <button onClick={btn}>ClickMe</button>
+    <button onClick={btn}>Click</button>
 
     </>
 )
